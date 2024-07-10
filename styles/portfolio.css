@@ -176,6 +176,6 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     display: block;
     width: 100px;
     padding: 10px 20px;
-    margin-bottom: 24;
+    margin-bottom: 24px;
     border: none;
 }
